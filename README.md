@@ -1,2 +1,3 @@
-# python-beginner-projects
-My beginner Python programs and practice projects
+print("Hello, GitHub!")
+print("I am learning Python.")
+print("My name is Vidhi Pagariya.")
